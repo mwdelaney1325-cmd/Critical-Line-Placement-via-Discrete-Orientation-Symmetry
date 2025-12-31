@@ -10,7 +10,7 @@ It provides a placement analogue: a setting in which a critical line arises as t
 ________________________________________
 1. Primitive Stream and Shadow Registration
 
-Let
+Let:
 
 [ {T(i)}_{i\in\mathbb{N}} ] 
 
@@ -20,7 +20,7 @@ Define a deterministic rational carrier:
 
 [ A(i)\in\mathbb{Q}, ] 
 
-computed from 
+computed from:
 
 (T(i)) 
 
@@ -46,7 +46,7 @@ ________________________________________
 
 2.1 Distinguishable break
 
-An integer 
+An integer:
 
 (x\in\mathbb{Z}_{\ge 0}) 
 
@@ -112,7 +112,9 @@ Assume:
 
 4.2 Platform minimality
 
-Let (T(i)=(A(i),B(i),C(i))) with (C(i)) 
+Let:
+
+(T(i)=(A(i),B(i),C(i))) with (C(i)) 
 
 the maximal component.
 
@@ -126,7 +128,9 @@ Then:
 
 4.3 Platform role
 
-[ (3,4,5) ] is the first closed primitive support at which:
+[ (3,4,5) ] 
+
+is the first closed primitive support at which:
 
 •	orientation is internally resolvable,
 
