@@ -1,8 +1,11 @@
 # Critical-Line-Placement-via-Discrete-Orientation-Symmetry
 (Transmission Framework — Platform-Limited)
+
 Scope notice
+
 This document constructs a discrete algebraic framework that identifies a unique centering coordinate at 1/2 inside a bounded residual band.
 It does not claim a proof of the Riemann Hypothesis.
+
 It provides a placement analogue: a setting in which a critical line arises as the only symmetry-stable location under admissible forward evolution.
 ________________________________________
 1. Primitive Stream and Shadow Registration
