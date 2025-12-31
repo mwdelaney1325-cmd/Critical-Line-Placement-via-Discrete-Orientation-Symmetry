@@ -20,7 +20,11 @@ Define a deterministic rational carrier:
 
 [ A(i)\in\mathbb{Q}, ] 
 
-computed from (T(i)) by a fixed algebraic rule.
+computed from 
+
+(T(i)) 
+
+by a fixed algebraic rule.
 
 Define the shadow registration:
 
@@ -68,7 +72,9 @@ Properties:
 
 Interpretation (role-based, not numeric):
 
-•	(\mathbf{1}_{!*}) is the unit of detection:
+•	(\mathbf{1}_{!*}) 
+
+is the unit of detection:
 
 the first level at which the system can assert “something occurred.”
 ________________________________________
